@@ -55,16 +55,16 @@ hr {
 }
 
 .link {
-  color: $blue-color;
+  color: $hacker-green;
   padding-bottom: .05em;
-  border-bottom: 2px solid transparent;
+  border-bottom: 2px solid $hacker-green;
 
   @include transition(border 300ms linear);
 
   &:hover,
   &:focus,
   &:active {
-    border-bottom: 2px solid $blue-color;
+    border-bottom: 2px solid $red-color;
   }
 }
 
