@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Some thoughts on virus..."
+comments: false
+description: "Just some thoughts on the coronavirus"
+keywords: "thoughts coronavirus corona"
+---
+
+### In the face of pandemic...
+
+Yesterday, the WHO announced that the coronovirus, COVID-19, has reached pandemic status on the planet Earth. It's a weird feeling and as people scramble for a combination of toilet paper, hand sanitizer, and rubbing alcohol, I find myself just standing back and looking around fascinated. People watching is something that I always find myself doing, of course, but this time I'm just in awe of the reaction. In many ways, the reaction of people is the same as it was when the ice storms were headed into Chicago and the northeastern Midwest a few years ago. The stockpiling and frenzied buying up of goods is interesting, but of course, this time it's also accompanied with things like stock market crashes, masks, and 401k accounts evaporating into thin air. Several coworkers have lost more than they make in a year in investments within the last few days and it's interesting watching people's lives fall apart as, for most of us, the disease hasn't even touched us yet. 
+
+I think that's the most interesting part of it for me. It's like watching a tornado coming at you from the distant horizon, which you can't stop watching due to its raw power and ferocity, but at the same time, the wind is picking up around you as well... blasting the planet's surface with building rage. On one hand, there's very little you can do.. the tornado is definitely going to hit you, but at the same time, you can do small things... like hiding in your basement. I could be wrong, but this is the first pandemic that I remember happening during my lifetime and it's triggered so many different ideas in my head than I would have expected. 
+
+1. The logistics of things is worrisome of course. As states are declaring states of emergency, schools are closing or moving their classes online, and entire sports associations are cancelling the season, there is so much that we take for granted from day to day that is just ceasing to exist. Even flying is quite restricted as flights are canceled and travel bans are issued. People are told to just stop moving, stop spreading and you realize with a sudden clarity how much movement occurs here. I was talking to my partner today about the fact that our lives are just continuing on even though things are shut down around us, and you realize how very small and inconsequential you are to the torrent of the world around you. 
+
+2. I'm not particularly concerned about contracting the illness myself. I'm a relatively healthy human in their early 30's with no prior respiratory concerns, so I don't fit into the high risk group for this particular disease. However, several people, including my partner is in the higher risk categories. I have found myself taking extra precautions to try and protect them much more than I would be worried about protecting myself. I wonder if my mentality would change if the disease was found to target my demographic more specifically? I expect to get sick, because I expect this virus to hit everyone, but I don't expect to have it be fatal in any sense for me personally. Is that just naivete? I'm not sure, but I do wonder if I'm being arrogant. Nature doesn't particularly care, I've found, if we think that we're at risk.
+
+3. Our economy is so very fragile. This disease hasn't even hit the part of the world that I hail from in any real way yet, and still people are losing bundles of money in the stock market, supply chains are being disrupted, and companies are losing millions as they send workers home and close their doors. Particularly the stock market aspect is enthralling to me. A coworker was talking to me just this morning and saying that this crash would set his retirement back five or more years at least, and that's assuming that it stabilizes now, which it doesn't necessarily show any sign of. It would take the barest of problems, and suddenly the backbone of the Western world would be shattered as the market went up in smoke and everyone's money vanished. I don't know what the personal solution is, but it definitely takes away any faith in investments or the like. Maybe I should just start buying lots of land in places as an investment? It's hard to say... what's going to still have value if the world stops caring about money?
+
+I probably have more thoughts, but that's all you get today. Stay safe out there and try to get lots of hand washing, sleeping, and disinfectant spread around. Good luck everyone and hopefully we'll all come the other side, armed with the knowledge of our own fragility and work to strengthen our position again. 
+
+#### TTFN
