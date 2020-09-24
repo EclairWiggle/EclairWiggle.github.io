@@ -1,0 +1,31 @@
+---
+layout: post
+title: "The Sabotuer : A Retrospective"
+comments: true
+description: "I beat EA's The Sabotuer and talk about it."
+keywords: "game review"
+---
+
+### My Romp Through Nazi-Occupied Paris
+
+I recently finished a playthrough of EA's The Sabotuer, an open world action game set in a Nazi occupied Paris during the earlier to mid stages of World War 2. You play as an Irishman, far from his homeland, who is bent on revenge and happens to be helping out the cause of the free world and the French resistance along the way. 
+
+NOTE: I will attempt to avoid spoilers here for the story, in particular, so if you just want to read through for fun and haven't played it yet, feel free to do so!
+
+First of all, I will say that the major redeeming quality of this game is the story. I mainly finished it so that I could see how it ends and how the main character deals with his revenge and the aftermath of finally finishing it. (This really isn't a spoiler... how many revenge stories don't end in the revenge happening?) There wasn't any particularly great characters (though I do like me some Skylar... the whole femme fatale bit was just enjoyable), but the story was interesting and wove three distinct things together in a way that I don't see games like this attempt or succeed at very often. I wish that this was a book, honestly, beacuse it would have made a great book or series of books even. But either way, this game had a fun story that was worth playing through. 
+
+At this point, I should mention that I played this game for around 10-13 hours (time is hard to tell as I would afk from time to time for something and leave the game running). You could get significantly more time out of it, though you'd be hard pressed to beat it faster probably. Open world and I have a strange, difficult relationship where I like the idea of big worlds, but in practice I don't like having to stop all the time to do things randomly on the side of my story experience. I like playing stories and generally will prefer to do so, rather than get sucked into the side stuff. In this game, I basically skipped almost everything optional, only popping towers or loot when it was convenient. I think I only captured a total of 7 cars, because once I got 5, there was just a significantly better one that I liked driving around in. I also didn't get even one perk in three of the lines and never got three in any of them. I'm not the person that people make open world games for and with only one exception (that being the Thronebreaker Witcher game), I just don't enjoy doing all the side content. (I should get into how that works with my weird off and on relationship with MMOs at some point in a post in the future.)
+
+This game felt very Grand Theft Auto-esque, with stealing cars, blowing stuff up, shooting down enemies, etc. It wasn't a bad GTA-clone, I suppose, but nothing about its gameplay particularly made me excited. In some ways, the game felt rather janky, including its parkour aspects, where it was easy to fall off of buildings, or get stuck on an ascension that ran out of ledges to climb. I didn't like the parkour aspects at all and while the game kept telling me that the "rooftops are Sean's domain" (your character is named Sean, btw), I just felt safer behind the wheel of a car. 
+
+The driving was pretty great, and though I skipped the optional race, I spent a decent amount of time blasting around town in a racecar. The drifting was rather bad, since it basically just spun you even if you breathed on the brake button, but it was still fun and the engine sounds were great (more on sound later). This was probably the better of the game mechanics to interact with. 
+
+Though, I think it's important to mention... the one or two escort quests, most of them the person you were escorting were invulnerable which was awesome. There was only once that I lost a mission due to my escortee person being a completely brain dead idiot, and that was more my fault for not giving him a more clear path ahead. So yeah, I was happy about that... and with only one on rails driving section, this game avoided some of the common pitfalls in those types of sequences. 
+
+Before I finish this, I do want to talk about the sound. The guns and random sound effects were fine, not great but completely passable. The stand out for me was the fact that I loved the soundtrack. I have been away from jazz for a while and the sounds of those jazz melodies (with several songs being quite popular) was so good. I've found myself listening to tons of jazz on YouTube since finishing the game, because I missed the sound of the jazz radio in the cars as you're blasting around the city. 
+
+Last thing... the age-old issue of enemies forgetting where/who you are as soon as you do the thing that "cleans your reputation" is very much here. There are some clear things that you can do to get out of alarm state and then immediately pass through checkpoints with your papers again. It was jarring and really did ruin the immersion, so keep that in mind when you play. At several points, I literally did a ring around the rosie bit with the guards around a safe zone and then popped into it as soon as they were on the other side, since they couldn't see me right then. Then, they'd spend however long it was wondering where I went when you could clearly see my feet under the fence of the phone booth right next to them. Jarring was a nice word for it, it really was... something. But it's also common for games like this to have that problem and at least they didn't force me to stealth... I could guns blazing through every mission. 
+
+If I was being forced to give a recommendation on this game, I'd have to say skip it probably. I think it was better than the sum of its parts, and is worth playing if you have some patience with it, but it honestly just didn't live up to my standard of even open world action games. The story was great though... and I can't understate that enough. But just go into it knowing that there is some jank along with the rest of the game. I got it on sale on GOG and it was totally worth the money that I spent on it, so take that for what it's worth. Hope that helps your decision!
+
+#### Cheers!
